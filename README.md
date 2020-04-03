@@ -2,8 +2,8 @@
 
 <br>
 
-![GitHub last commit](https://github.com/COVID-Weather/COVID-Flu)
-![GitHub repo size](https://github.com/COVID-Weather/COVID-Flu)
+![GitHub last commit](https://img.shields.io/github/last-commit/COVID-Weather/COVID-Flu)
+![GitHub repo size](https://img.shields.io/github/repo-size/COVID-Weather/COVID-Flu)
 
 This repository contains MATLAB scripts for modeling COVID-19 and seasonal flu and explore the effect of testing scenarios on estimating R0.
 
